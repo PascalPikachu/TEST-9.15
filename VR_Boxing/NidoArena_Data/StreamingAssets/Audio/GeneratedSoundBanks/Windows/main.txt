@@ -1,0 +1,63 @@
+Event	ID	Name			Wwise Object Path	Notes
+	175340321	Play_TargetDown			\Default Work Unit\Play_TargetDown	
+	419831083	Stop_Fly			\Default Work Unit\Stop_Fly	
+	483127359	Play_food_ejector			\Default Work Unit\Play_food_ejector	
+	526875337	Play_shot_Accumulator			\Default Work Unit\Play_shot_Accumulator	
+	614894759	Set_Switch_game_menu			\Default Work Unit\Set_Switch_game_menu	
+	775671944	Play_music_game_system			\Default Work Unit\Play_music_game_system	
+	888640723	Stop_system			\Default Work Unit\Stop_system	
+	1014040015	Set_Switch_normal_win			\Default Work Unit\Set_Switch_normal_win	
+	1152776051	Set_Switch_new_record			\Default Work Unit\Set_Switch_new_record	
+	1319845607	Play_Child_Voice			\Default Work Unit\Play_Child_Voice	
+	1551805620	Play_pool			\Default Work Unit\Play_pool	
+	1928751031	Play_Camera			\Default Work Unit\Play_Camera	
+	2095317009	Play_Boom_far			\Default Work Unit\Play_Boom_far	
+	2230670290	Play_Start			\Default Work Unit\Play_Start	
+	2279870925	Play_Boom_fly			\Default Work Unit\Play_Boom_fly	
+	2290942216	Play_Arrows			\Default Work Unit\Play_Arrows	
+	2367183811	Play_just_shot			\Default Work Unit\Play_just_shot	
+	2627109744	Set_Switch_start_game			\Default Work Unit\Set_Switch_start_game	
+	2792763106	Play_punch_sound			\Default Work Unit\Play_punch_sound	
+	2939892886	Play_TargetRise			\Default Work Unit\Play_TargetRise	
+	2941622701	Play_Fly			\Default Work Unit\Play_Fly	
+	2955259529	Play_hurt			\Default Work Unit\Play_hurt	
+	2972225970	Set_Switch_LOSE			\Default Work Unit\Set_Switch_LOSE	
+	3086715717	Play_Battery			\Default Work Unit\Play_Battery	
+	3286261030	Play_Boom_close			\Default Work Unit\Play_Boom_close	
+	3451956096	Play_Fall_Down			\Default Work Unit\Play_Fall_Down	
+	3869132978	Play_Count_down			\Default Work Unit\Play_Count_down	
+	4260850553	Set_Switch_finish_game			\Default Work Unit\Set_Switch_finish_game	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	188166712	Fly	E:\UnityProjects\VRProject\VRProject_WwiseProject\.cache\Windows\SFX\Fly_2A9E6AC1.wem		\Actor-Mixer Hierarchy\Default Work Unit\Fly		199808
+	272855450	Hurt1	E:\UnityProjects\VRProject\VRProject_WwiseProject\.cache\Windows\SFX\Hurt1_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\hurt\Hurt1		283712
+	322246685	Boom far	E:\UnityProjects\VRProject\VRProject_WwiseProject\.cache\Windows\SFX\Boom far_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\Boom far		155712
+	325810379	Punching_sound3-2	E:\UnityProjects\VRProject\VRProject_WwiseProject\.cache\Windows\SFX\Punching_sound3-2_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\punch sound\Punching_sound3-2		367232
+	415999823	Sound of pool2-3	E:\UnityProjects\VRProject\VRProject_WwiseProject\.cache\Windows\SFX\Sound of pool2-3_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\pool\Sound of pool2-3		307008
+	417598932	Boom close	E:\UnityProjects\VRProject\VRProject_WwiseProject\.cache\Windows\SFX\Boom close_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\Boom close		308288
+	448483702	Background music	E:\UnityProjects\VRProject\VRProject_WwiseProject\.cache\Windows\SFX\Background music _8956FC97.wem		\Interactive Music Hierarchy\Default Work Unit\game system\bakcground music\Background music\Background music		24154072
+	497019732	food_ejector2	E:\UnityProjects\VRProject\VRProject_WwiseProject\.cache\Windows\SFX\food_ejector2_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\food_ejector2		486976
+	529288724	Hurt2	E:\UnityProjects\VRProject\VRProject_WwiseProject\.cache\Windows\SFX\Hurt2_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\hurt\Hurt2		219200
+	533978335	UI music	E:\UnityProjects\VRProject\VRProject_WwiseProject\.cache\Windows\SFX\UI music_8956FC97.wem		\Interactive Music Hierarchy\Default Work Unit\game system\win music series\UI music\UI music		12674236
+	560636245	shot_Accumulator	E:\UnityProjects\VRProject\VRProject_WwiseProject\.cache\Windows\SFX\Accumulator_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\shot_Accumulator		363588
+	571011035	Win music3	E:\UnityProjects\VRProject\VRProject_WwiseProject\.cache\Windows\SFX\Win music3_8956FC97.wem		\Interactive Music Hierarchy\Default Work Unit\game system\normal win\Win music3\Win music3		1409088
+	575297042	just_shot	E:\UnityProjects\VRProject\VRProject_WwiseProject\.cache\Windows\SFX\shot_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\just_shot		352872
+	589407931	start_shot	E:\UnityProjects\VRProject\VRProject_WwiseProject\.cache\Windows\SFX\start_shot_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\start_shot		440188
+	601363436	UI music2	E:\UnityProjects\VRProject\VRProject_WwiseProject\.cache\Windows\SFX\UI music2_8956FC97.wem		\Interactive Music Hierarchy\Default Work Unit\game system\lose music series\UI music2\UI music2		4106132
+	629831057	Count down	E:\UnityProjects\VRProject\VRProject_WwiseProject\.cache\Windows\SFX\Count down_2127314C.wem		\Actor-Mixer Hierarchy\Default Work Unit\Count down		200128
+	649317177	Punching_sound3-3	E:\UnityProjects\VRProject\VRProject_WwiseProject\.cache\Windows\SFX\Punching_sound3-3_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\punch sound\Punching_sound3-3		336192
+	744580878	Child_Voice	E:\UnityProjects\VRProject\VRProject_WwiseProject\.cache\Windows\SFX\Child_Voice_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\Child_Voice		61504
+	747047882	hit_target_2	E:\UnityProjects\VRProject\VRProject_WwiseProject\.cache\Windows\SFX\hit_target_2_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\hit_target_2		444304
+	758648921	Fall_Down	E:\UnityProjects\VRProject\VRProject_WwiseProject\.cache\Windows\SFX\Fall_Down_B8EAAF8B.wem		\Actor-Mixer Hierarchy\Default Work Unit\Fall_Down		22232
+	759510272	Lose music	E:\UnityProjects\VRProject\VRProject_WwiseProject\.cache\Windows\SFX\Lose music_8956FC97.wem		\Interactive Music Hierarchy\Default Work Unit\game system\lose music\Lose music\Lose music		1621340
+	776089744	Sound of pool2-2	E:\UnityProjects\VRProject\VRProject_WwiseProject\.cache\Windows\SFX\Sound of pool2-2_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\pool\Sound of pool2-2		284736
+	803552575	Battery4	E:\UnityProjects\VRProject\VRProject_WwiseProject\.cache\Windows\SFX\Battery4_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\Battery4		1450048
+	818097043	Punching_sound3-1	E:\UnityProjects\VRProject\VRProject_WwiseProject\.cache\Windows\SFX\Punching_sound3-1_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\punch sound\Punching_sound3-1		333888
+	898296023	Camera	E:\UnityProjects\VRProject\VRProject_WwiseProject\.cache\Windows\SFX\Camera_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\Camera		378944
+	910897474	Boom fly	E:\UnityProjects\VRProject\VRProject_WwiseProject\.cache\Windows\SFX\Boom fly_86BE30C0.wem		\Actor-Mixer Hierarchy\Default Work Unit\Boom fly		394644
+	966264856	rising_down_target_2	E:\UnityProjects\VRProject\VRProject_WwiseProject\.cache\Windows\SFX\rising_down_target_2_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\rising_down_target_2		514400
+	967966030	Arrows	E:\UnityProjects\VRProject\VRProject_WwiseProject\.cache\Windows\SFX\Arrows_832F4314.wem		\Actor-Mixer Hierarchy\Default Work Unit\Arrows		205760
+	974135539	Sound of pool2-1	E:\UnityProjects\VRProject\VRProject_WwiseProject\.cache\Windows\SFX\Sound of pool2-1_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\pool\Sound of pool2-1		314432
+	1026706883	Hurt3	E:\UnityProjects\VRProject\VRProject_WwiseProject\.cache\Windows\SFX\Hurt3_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\hurt\Hurt3		275904
+	1066952474	Punching_sound3-4	E:\UnityProjects\VRProject\VRProject_WwiseProject\.cache\Windows\SFX\Punching_sound3-4_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\punch sound\Punching_sound3-4		388288
+

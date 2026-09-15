@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="11" SoundbankVersion="132">
+	<RootPaths>
+		<ProjectRoot>E:\UnityProjects\VRProject\VRProject_WwiseProject\</ProjectRoot>
+		<SourceFilesRoot>E:\UnityProjects\VRProject\VRProject_WwiseProject\.cache\Windows\</SourceFilesRoot>
+		<SoundBanksRoot>E:\UnityProjects\VRProject\VRProject_WwiseProject\GeneratedSoundBanks\Windows\</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>E:\UnityProjects\VRProject\VRProject_WwiseProject\GeneratedSoundBanks\Windows</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<DialogueEvents/>
+	<StreamedFiles/>
+	<MediaFilesNotInAnyBank/>
+	<SoundBanks>
+		<SoundBank Id="1355168291" Language="SFX">
+			<ObjectPath>Init</ObjectPath>
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+		</SoundBank>
+		<SoundBank Id="3161908922" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\main</ObjectPath>
+			<ShortName>main</ShortName>
+			<Path>main.bnk</Path>
+			<IncludedEvents>
+				<Event Id="2290942216" Name="Play_Arrows" ObjectPath="\Events\Default Work Unit\Play_Arrows" MaxAttenuation="100.000000"/>
+				<Event Id="3086715717" Name="Play_Battery" ObjectPath="\Events\Default Work Unit\Play_Battery"/>
+				<Event Id="3286261030" Name="Play_Boom_close" ObjectPath="\Events\Default Work Unit\Play_Boom_close" MaxAttenuation="100.000000"/>
+				<Event Id="2095317009" Name="Play_Boom_far" ObjectPath="\Events\Default Work Unit\Play_Boom_far" MaxAttenuation="100.000000"/>
+				<Event Id="2279870925" Name="Play_Boom_fly" ObjectPath="\Events\Default Work Unit\Play_Boom_fly" MaxAttenuation="100.000000"/>
+				<Event Id="1928751031" Name="Play_Camera" ObjectPath="\Events\Default Work Unit\Play_Camera"/>
+				<Event Id="1319845607" Name="Play_Child_Voice" ObjectPath="\Events\Default Work Unit\Play_Child_Voice"/>
+				<Event Id="3869132978" Name="Play_Count_down" ObjectPath="\Events\Default Work Unit\Play_Count_down"/>
+				<Event Id="3451956096" Name="Play_Fall_Down" ObjectPath="\Events\Default Work Unit\Play_Fall_Down"/>
+				<Event Id="2941622701" Name="Play_Fly" ObjectPath="\Events\Default Work Unit\Play_Fly" MaxAttenuation="100.000000"/>
+				<Event Id="483127359" Name="Play_food_ejector" ObjectPath="\Events\Default Work Unit\Play_food_ejector"/>
+				<Event Id="2955259529" Name="Play_hurt" ObjectPath="\Events\Default Work Unit\Play_hurt"/>
+				<Event Id="2367183811" Name="Play_just_shot" ObjectPath="\Events\Default Work Unit\Play_just_shot"/>
+				<Event Id="775671944" Name="Play_music_game_system" ObjectPath="\Events\Default Work Unit\Play_music_game_system"/>
+				<Event Id="1551805620" Name="Play_pool" ObjectPath="\Events\Default Work Unit\Play_pool" MaxAttenuation="100.000000"/>
+				<Event Id="2792763106" Name="Play_punch_sound" ObjectPath="\Events\Default Work Unit\Play_punch_sound" MaxAttenuation="100.000000"/>
+				<Event Id="526875337" Name="Play_shot_Accumulator" ObjectPath="\Events\Default Work Unit\Play_shot_Accumulator"/>
+				<Event Id="2230670290" Name="Play_Start" ObjectPath="\Events\Default Work Unit\Play_Start"/>
+				<Event Id="175340321" Name="Play_TargetDown" ObjectPath="\Events\Default Work Unit\Play_TargetDown"/>
+				<Event Id="2939892886" Name="Play_TargetRise" ObjectPath="\Events\Default Work Unit\Play_TargetRise"/>
+				<Event Id="4260850553" Name="Set_Switch_finish_game" ObjectPath="\Events\Default Work Unit\Set_Switch_finish_game" MaxAttenuation="0.000000"/>
+				<Event Id="614894759" Name="Set_Switch_game_menu" ObjectPath="\Events\Default Work Unit\Set_Switch_game_menu" MaxAttenuation="0.000000"/>
+				<Event Id="2972225970" Name="Set_Switch_LOSE" ObjectPath="\Events\Default Work Unit\Set_Switch_LOSE" MaxAttenuation="0.000000"/>
+				<Event Id="1152776051" Name="Set_Switch_new_record" ObjectPath="\Events\Default Work Unit\Set_Switch_new_record" MaxAttenuation="0.000000"/>
+				<Event Id="1014040015" Name="Set_Switch_normal_win" ObjectPath="\Events\Default Work Unit\Set_Switch_normal_win" MaxAttenuation="0.000000"/>
+				<Event Id="2627109744" Name="Set_Switch_start_game" ObjectPath="\Events\Default Work Unit\Set_Switch_start_game" MaxAttenuation="0.000000"/>
+				<Event Id="419831083" Name="Stop_Fly" ObjectPath="\Events\Default Work Unit\Stop_Fly" MaxAttenuation="0.000000"/>
+				<Event Id="888640723" Name="Stop_system" ObjectPath="\Events\Default Work Unit\Stop_system" MaxAttenuation="0.000000"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="188166712" Language="SFX">
+					<ShortName>Fly.wav</ShortName>
+					<Path>SFX\Fly_2A9E6AC1.wem</Path>
+				</File>
+				<File Id="272855450" Language="SFX">
+					<ShortName>Hurt1.wav</ShortName>
+					<Path>SFX\Hurt1_56D34C19.wem</Path>
+				</File>
+				<File Id="322246685" Language="SFX">
+					<ShortName>Boom far.wav</ShortName>
+					<Path>SFX\Boom far_56D34C19.wem</Path>
+				</File>
+				<File Id="325810379" Language="SFX">
+					<ShortName>Punching_sound3-2.wav</ShortName>
+					<Path>SFX\Punching_sound3-2_56D34C19.wem</Path>
+				</File>
+				<File Id="415999823" Language="SFX">
+					<ShortName>Sound of pool2-3.wav</ShortName>
+					<Path>SFX\Sound of pool2-3_56D34C19.wem</Path>
+				</File>
+				<File Id="417598932" Language="SFX">
+					<ShortName>Boom close.wav</ShortName>
+					<Path>SFX\Boom close_56D34C19.wem</Path>
+				</File>
+				<File Id="448483702" Language="SFX">
+					<ShortName>Background music .wav</ShortName>
+					<Path>SFX\Background music _8956FC97.wem</Path>
+				</File>
+				<File Id="497019732" Language="SFX">
+					<ShortName>food_ejector2.wav</ShortName>
+					<Path>SFX\food_ejector2_56D34C19.wem</Path>
+				</File>
+				<File Id="529288724" Language="SFX">
+					<ShortName>Hurt2.wav</ShortName>
+					<Path>SFX\Hurt2_56D34C19.wem</Path>
+				</File>
+				<File Id="533978335" Language="SFX">
+					<ShortName>UI music.wav</ShortName>
+					<Path>SFX\UI music_8956FC97.wem</Path>
+				</File>
+				<File Id="560636245" Language="SFX">
+					<ShortName>Accumulator.wav</ShortName>
+					<Path>SFX\Accumulator_56D34C19.wem</Path>
+				</File>
+				<File Id="571011035" Language="SFX">
+					<ShortName>Win music3.wav</ShortName>
+					<Path>SFX\Win music3_8956FC97.wem</Path>
+				</File>
+				<File Id="575297042" Language="SFX">
+					<ShortName>shot.wav</ShortName>
+					<Path>SFX\shot_56D34C19.wem</Path>
+				</File>
+				<File Id="589407931" Language="SFX">
+					<ShortName>start_shot.wav</ShortName>
+					<Path>SFX\start_shot_56D34C19.wem</Path>
+				</File>
+				<File Id="601363436" Language="SFX">
+					<ShortName>UI music2.wav</ShortName>
+					<Path>SFX\UI music2_8956FC97.wem</Path>
+				</File>
+				<File Id="629831057" Language="SFX">
+					<ShortName>Count down.wav</ShortName>
+					<Path>SFX\Count down_2127314C.wem</Path>
+				</File>
+				<File Id="649317177" Language="SFX">
+					<ShortName>Punching_sound3-3.wav</ShortName>
+					<Path>SFX\Punching_sound3-3_56D34C19.wem</Path>
+				</File>
+				<File Id="744580878" Language="SFX">
+					<ShortName>Child_Voice.wav</ShortName>
+					<Path>SFX\Child_Voice_56D34C19.wem</Path>
+				</File>
+				<File Id="747047882" Language="SFX">
+					<ShortName>hit_target_2.wav</ShortName>
+					<Path>SFX\hit_target_2_56D34C19.wem</Path>
+				</File>
+				<File Id="758648921" Language="SFX">
+					<ShortName>Fall_Down.wav</ShortName>
+					<Path>SFX\Fall_Down_B8EAAF8B.wem</Path>
+				</File>
+				<File Id="759510272" Language="SFX">
+					<ShortName>Lose music.wav</ShortName>
+					<Path>SFX\Lose music_8956FC97.wem</Path>
+				</File>
+				<File Id="776089744" Language="SFX">
+					<ShortName>Sound of pool2-2.wav</ShortName>
+					<Path>SFX\Sound of pool2-2_56D34C19.wem</Path>
+				</File>
+				<File Id="803552575" Language="SFX">
+					<ShortName>Battery4.wav</ShortName>
+					<Path>SFX\Battery4_56D34C19.wem</Path>
+				</File>
+				<File Id="818097043" Language="SFX">
+					<ShortName>Punching_sound3-1.wav</ShortName>
+					<Path>SFX\Punching_sound3-1_56D34C19.wem</Path>
+				</File>
+				<File Id="898296023" Language="SFX">
+					<ShortName>Camera.wav</ShortName>
+					<Path>SFX\Camera_56D34C19.wem</Path>
+				</File>
+				<File Id="910897474" Language="SFX">
+					<ShortName>Boom fly.wav</ShortName>
+					<Path>SFX\Boom fly_86BE30C0.wem</Path>
+				</File>
+				<File Id="966264856" Language="SFX">
+					<ShortName>rising_down_target_2.wav</ShortName>
+					<Path>SFX\rising_down_target_2_56D34C19.wem</Path>
+				</File>
+				<File Id="967966030" Language="SFX">
+					<ShortName>Arrows.wav</ShortName>
+					<Path>SFX\Arrows_832F4314.wem</Path>
+				</File>
+				<File Id="974135539" Language="SFX">
+					<ShortName>Sound of pool2-1.wav</ShortName>
+					<Path>SFX\Sound of pool2-1_56D34C19.wem</Path>
+				</File>
+				<File Id="1026706883" Language="SFX">
+					<ShortName>Hurt3.wav</ShortName>
+					<Path>SFX\Hurt3_56D34C19.wem</Path>
+				</File>
+				<File Id="1066952474" Language="SFX">
+					<ShortName>Punching_sound3-4.wav</ShortName>
+					<Path>SFX\Punching_sound3-4_56D34C19.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>
